@@ -1,0 +1,32 @@
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\appsettings.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Echallene 2024.exe
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Echallene 2024.deps.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Echallene 2024.runtimeconfig.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Echallene 2024.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Echallene 2024.pdb
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.csproj.AssemblyReference.cache
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.AssemblyInfoInputs.cache
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.AssemblyInfo.cs
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.csproj.CoreCompileInputs.cache
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets\msbuild.Echallene 2024.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets\msbuild.build.Echallene 2024.props
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Echallene 2024.props
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Echallene 2024.props
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\scopedcss\bundle\Echallene 2024.styles.css
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallen.1F218FE9.Up2Date
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\refint\Echallene 2024.dll
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.pdb
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\Echallene 2024.genruntimeconfig.cache
+C:\Users\oumaa\Downloads\Echallene 2024\Echallene 2024\Echallene 2024\obj\Debug\net8.0\ref\Echallene 2024.dll
