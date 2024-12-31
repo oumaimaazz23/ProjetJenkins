@@ -22,7 +22,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Compilation du projet
-                sh "dotnet build ${PROJECT_NAME}.sln --configuration Release"
+                sh "dotnet build ${PROJECT_NAME}.sln "
             }
         }
 
