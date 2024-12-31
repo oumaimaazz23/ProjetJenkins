@@ -22,14 +22,14 @@ pipeline {
         stage('Build') {
             steps {
                 // Compilation du projet
-                sh "dotnet build ${PROJECT_NAME}.sln "
+                sh "dotnet build Echallene 2024.sln "
             }
         }
 
         stage('Test') {
             steps {
                 // Exécution des tests unitaires
-                sh "dotnet test Tests/${PROJECT_NAME}_test.csproj --logger trx"
+                sh "dotnet test Tests/ProjetAtelier_test.csproj --logger trx"
             }
         }
 
