@@ -5,7 +5,7 @@ pipeline {
         PATH = "/usr/bin/dotnet:$PATH"
         PROJECT_NAME = "ProjetJenkins"
         DOCKER_IMAGE = "oumaimaazz/${PROJECT_NAME}" 
-        DOCKER_CREDENTIALS = "dockerhub-credentials" // Remplacez par l'ID de vos credentials Docker Hub
+        DOCKER_CREDENTIALS = "dockerhub-credentials" // ID des credentials Docker Hub
         REPO_URL = "git@github.com:oumaimaazz23/ProjetJenkins.git"
     }
 
@@ -17,20 +17,24 @@ pipeline {
             }
         }
 
-       
+        stage('Restore Dependencies') {
+            steps {
+                // Restauration des dépendances .NET
+                sh "dotnet restore 'Echallene 2024.sln'"
+            }
+        }
 
         stage('Build') {
             steps {
                 // Compilation du projet
-                sh "dotnet build Echallene 2024.sln --configuration Release"
- "
+                sh "dotnet build 'Echallene 2024.sln' --configuration Release"
             }
         }
 
         stage('Test') {
             steps {
                 // Exécution des tests unitaires
-                sh "dotnet test $WORKSPACE/CarsService_test/ProjetAtelier_test.csproj "
+                sh "dotnet test 'CarsService_test/ProjetAtelier_test.csproj' --logger trx"
             }
         }
 
