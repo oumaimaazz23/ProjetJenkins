@@ -34,7 +34,7 @@ pipeline {
         stage('Test') {
             steps {
                 // Exécution des tests unitaires
-                sh "dotnet test 'CarsService_test/ProjetAtelier_test.csproj' --logger trx"
+                sh "dotnet test 'ProjetAtelier_test/ProjetAtelier_test.csproj' --logger trx"
             }
         }
 
