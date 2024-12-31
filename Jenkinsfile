@@ -42,7 +42,7 @@ pipeline {
             steps {
                 script {
                     // Construire l'image Docker
-                    sh "docker build -t ${DOCKER_IMAGE}:latest -f Echallene 2024/Dockerfile ."
+                      sh "docker build -t ${DOCKER_IMAGE}:latest -f 'Echallene 2024/Dockerfile' ."
                 }
             }
         }
