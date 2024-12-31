@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         PATH = "/usr/bin/dotnet:$PATH"
-        PROJECT_NAME = "ProjetJenkins_app"
+        PROJECT_NAME = "projetjenkins_app"
         DOCKER_IMAGE = "oumaimaazz/${PROJECT_NAME}" 
         DOCKER_CREDENTIALS = "dockerhub-credentials" // ID des credentials Docker Hub
         REPO_URL = "git@github.com:oumaimaazz23/ProjetJenkins.git"
