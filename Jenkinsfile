@@ -22,7 +22,8 @@ pipeline {
         stage('Build') {
             steps {
                 // Compilation du projet
-                sh "dotnet build Echallene 2024.sln "
+                sh "dotnet build Echallene 2024.sln --configuration Release"
+ "
             }
         }
 
