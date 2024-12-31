@@ -12,17 +12,12 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Cloner le dépôt GitHub
+                // Cloner le dÃ©pÃ´t GitHub
                 git branch: 'main', url: "${REPO_URL}"
             }
         }
 
-        stage('Restore Dependencies') {
-            steps {
-                // Restauration des dépendances .NET
-                sh "dotnet restore ${PROJECT_NAME}.sln"
-            }
-        }
+       
 
         stage('Build') {
             steps {
@@ -33,7 +28,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                // Exécution des tests unitaires
+                // ExÃ©cution des tests unitaires
                 sh "dotnet test Tests/${PROJECT_NAME}_test.csproj --logger trx"
             }
         }
@@ -64,14 +59,14 @@ pipeline {
 
     post {
         always {
-            // Nettoyage après le pipeline
+            // Nettoyage aprÃ¨s le pipeline
             cleanWs()
         }
         success {
-            echo "Pipeline terminé avec succès !"
+            echo "Pipeline terminÃ© avec succÃ¨s !"
         }
         failure {
-            echo "Le pipeline a échoué. Vérifiez les logs."
+            echo "Le pipeline a Ã©chouÃ©. VÃ©rifiez les logs."
         }
     }
 }
